@@ -1,0 +1,56 @@
+#top-header {
+    background-color: rgb(187, 185, 185);
+    height: 12vh;
+    width: 100%;
+}
+
+#blue-box {
+    background-color: rgb(115, 177, 248);
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+
+#text-box {
+    background-color: white;
+    height: 300px;
+    width: 100%;
+    top: 12vh;
+}
+p {
+    margin-right: 5vw;
+    margin-left: 5vw;
+    font-size: 15px;
+}
+
+#lightblue-box {
+    background-color: rgb(115, 177, 248);
+    height: 200px;
+    width: 100%;
+    top: 200px;
+}
+
+#cyan-box {
+    background-color: rgb(115, 233, 248);
+    height: 200px;
+    width: 100%;
+    top: 200px;
+}
+
+#green-box {
+    background-color: rgb(184, 240, 112);
+    height: 200px;
+    width: 100%;
+    top: 200px;
+}
+
+#yellow-box {
+    background-color: rgb(234, 255, 113);
+    height: 200px;
+    width: 100%;
+    top: 200px;
+}
+
+
